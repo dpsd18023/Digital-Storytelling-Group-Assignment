@@ -4,62 +4,38 @@
 ### First and Last Name: xxx (all members of the team)
 ### University Registration Number: dpsdxxxxx (all members of the team)
 ### GitHub Personal Profile: xxx
-1. Premise and purpose
-1.1. What is the project about?
-This project is about a story of a girl living her days feeling stuck
-in her everyday life, instead of following her dreams. It touches
-upon the hypothetical question of what would happen if one has
-the chance to magically follow their dreams.
-When it comes to your own life, let’s say a mysterious figure comes
-along one day and offers you immortality and all the money in the
-world to do whatever you desire.
-What would you do? How would you spend your free time now that
-there are no restrictions and logistical problems (like having to
-have a regular job or provide for your family)?
-And most importantly, what are you willing to sacrifice to achieve
-it?
+## 1. Premise and purpose
+### 1.1. What is the project about?
+<p>Το πρότζεκτ μας θα είναι ένα κωμικό βίντεο. Το σενάριο μας παρουσιάζει μια ιστορία 5 φίλων που πάνε σε ένα κυνήγι θυσαυρού.</p> 
 1.2. What is the project’s core?
-The core premise is the dilemma of free will and the consequences
-it brings.
-No matter how bright and shiny, there’s always a payoff.
-So what makes us want to chase a better future if we’ll end up
-regretting everything regardless?
+Την διασκέδαση και τις στιγμές των φίλων.
 1.3. Is it a fictional, a non-fiction or
-a mixed project?
-It’s a mixed project, it’s fundamentally inspired and based on
-everyday people and their struggles.
+a mixed project? 
+Non fiction
 1.4. What is its fundamental purpose?
-Is it to entertain, to teach or to
-inform? Is it to market a product?
-It’s purpose is to entertain but also make us ponder a little about
-our choices, our actions or lack thereof.
+Να διασκεδάσει και να ψυχαγωγήσει. 
 2. Narrative
 2.1. What are the narrative elements
 (such as plot, theme, characters,
 etc.) of the project?
-The plot is about a girl named Chara who is presented with a contract
-from an ancient demon. This contract states that Chara will get infinite
-money and immortality, but she will be chased by a regular immortal
-snail. If the snail catches her, she dies.
+Μάνος- ο ανταγωνιστικός και δυναμικός ηγέτης της ομάδας
+Γιώργος - ο χαζός και διασκεδαστικός
+Άγγελος - ο σκεπτικιστής και επιφυλακτικός
+Προκόπης - ο τεχνολογικά έμπειρος και παθιασμένος με τα γκάτζετ.
+Άγγελος- ο ντροπαλός και εσωστρεφής
 2.2. What would be the summary of
 its storyline?
-A Choice is to be made. This choice will give power and money to one
-but the catch is the person will always be chased by a single snail
+Τα αγόρια πέφτουν πάνω σε έναν παλιό χάρτη που οδηγεί σε έναν θρυλικό θησαυρό κρυμμένο στο κοντινό δάσος.
 2.3. What is the timeframe of the story?
-The time frame of the plot is not determined by the dialogs, but rather
-the elements that are used by the characters, such as smartphones etc.
-So it is implied that the timeframe is somewhere around the 2020’s
+Δεν έχει αποφασιστεί σίγουρα αρχή, μέση και τέλος υπολογίζουμε 6 frames(2 για το καθένα).
 2.4. What are the major events or challenges offered by the narrative?
-The major effect event is the frustration of the main character. This in
-turn escalates when the Contractor visits her, forcing her to make the
-ultimate choice.
+Η αντιμετώπιση εμποδίων όπως γρίφοι κλπ. και αντιμετωπισμός άλλων κυνηγών θησαυρού.
 2.5. Does the project utilize gaming
 elements? Does the project
 involve winning or losing?
-No, the project does not utilize gaming elements.
+Ναι, χρησιμοποιεί gaming elements ,μοιάζει σαν το κυνήγι θυσαυρού.
 2.6. What are the strategies for expanding the narrative?
-We mostly use visual elements and narration by the main character to
-move the story forward. We also wrote a poem paired with music.
+We mostly use visual elements from camera.Έχουμε φτάσει εδώ.
 2.7. Are negative capability and migratory cues included?
 No, we did not use negative capability or migratory cues.
 2.8. Is it possible to identify intermedial texts in the story?
