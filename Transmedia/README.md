@@ -1,9 +1,15 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+| # | First and Last Name  |       AM       |            GitHub profile            |
+|:---:|     :---:          |     :---:      |                :---:                 |
+| 1 | Γλέζος Γεώργιος      |   Dpsd18023    |   https://github.com/dpsd18023       |
+| 2 | Μανώλης Άγγελος      |   Dpsd17064    |   https://github.com/     |
+| 3 | Μπελιάς Προκόπης     |   Dpsd17073    |   https://github.com/Prokopisbelias  |
+| 4 | Στριλιγκάς Εμμανουήλ |   Dpsd18108    |   https://github.com/dpsd18108       |
+| 5 | Φυλακτός Άγγελος     |   Dpsd18128    |   https://github.com/aggelosFyl      |
+| 6 | First and Last Name  |   Dpsdxxxxx    |   https://github.com/     |
+
 ## 1. Premise and purpose
 ### 1.1. What is the project about?
 <p>Το πρότζεκτ μας θα είναι ένα κωμικό βίντεο. Το σενάριο μας παρουσιάζει μια ιστορία 5 φίλων που πάνε σε ένα κυνήγι θυσαυρού.</p> 
