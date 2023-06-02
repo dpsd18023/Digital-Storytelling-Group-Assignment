@@ -1,6 +1,6 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
-## Click this for reading: [TheAnimators Presentati](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/TheAnimators_Presentation.pdf)
+## Click this for reading: [TheAnimators Presentation](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/TheAnimators_Presentation.pdf)
 
 | # | First and Last Name  |       AM       |             GitHub profile              |
 |:---:|     :---:          |     :---:      |                 :---:                   |
