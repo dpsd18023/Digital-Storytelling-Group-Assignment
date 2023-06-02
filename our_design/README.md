@@ -1,6 +1,6 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
-## Click this for reading: [TheAnimators Design Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/TheAnimators_Transmedia%20.pdf)
+## Click this for reading: [TheAnimators Design Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_design/TheAnimators_DesignDocument.pdf)
 
 | # | First and Last Name  |       AM       |             GitHub profile              |
 |:---:|     :---:          |     :---:      |                 :---:                   |
@@ -141,21 +141,10 @@ Premiere
 
 #### Σκίτσα
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Σαρωμένα έγγραφα_page-0001](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/8f165966-4aec-4486-97df-c8be143055e1)
+![Σαρωμένα έγγραφα_page-0002](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/5751c9c8-67f8-4c1d-9edb-254ee4f87be7)
+![Σαρωμένα έγγραφα_page-0003](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/75ba2e17-f2cd-4e51-80de-9e2ca509ad0b)
+![Σαρωμένα έγγραφα_page-0004](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/295ce780-7c20-4174-83cd-3d7fe8a4bff2)
 
 
 ### 16. CASTING
