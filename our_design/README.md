@@ -1,4 +1,4 @@
-***TheAnimators - Design Document
+*** TheAnimators - Design Document
 
 Ονοματεπώνυμό
 Αριθμός Μητρώου
