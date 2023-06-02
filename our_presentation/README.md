@@ -11,6 +11,7 @@
 | 5 | Στριλιγκάς Εμμανουήλ |   Dpsd18108    |   https://github.com/dpsd18108          |
 | 6 | Φυλακτός Άγγελος     |   Dpsd18128    |   https://github.com/aggelosFyl         |
 
+
 ![TheAnimators_Presentation_page-0001](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/974f516e-592a-411a-9c7f-47f4c9a4b2b3)
 ![TheAnimators_Presentation_page-0002](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/2bcffacc-ecaf-4570-a30e-5f0707c85cc6)
 ![TheAnimators_Presentation_page-0003](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/1f702456-2c74-4ba2-81e4-89496d277672)
