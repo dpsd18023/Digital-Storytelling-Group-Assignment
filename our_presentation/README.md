@@ -26,4 +26,4 @@
 ![TheAnimators_Presentation_page-0010](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/83614914-2945-4ed9-b192-8acaaff7f828)
 ![TheAnimators_Presentation_page-0011](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/676bedbd-c7d8-4427-82c2-9827adcfe3a3)
 
-## Presentation PDF: [TheAnimators Presentation](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/TheAnimators_Presentation.pdf)
+### [TheAnimators Presentation pdf](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/TheAnimators_Presentation.pdf)
