@@ -1,6 +1,5 @@
 # Lesson: Digital Storytelling
-# Transmedia Document
-## Click this for reading: [TheAnimators Design Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_design/TheAnimators_DesignDocument.pdf)
+# Design Document
 ## Transmedia: [Website](https://dpsd18108.github.io/QuirkyTreasureMovie/) & [Website repository](https://github.com/dpsd18108/QuirkyTreasureMovie)
 ## The Movie: [Ο θησαυρός του Quirky](https://www.youtube.com/watch?v=OqKA6UkUlKs)
 
@@ -166,6 +165,8 @@ Premiere
 https://www.youtube.com/
 
 https://onlinevideoconverter.com/el/mp3-converter
+
+### PDF: [TheAnimators Design Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_design/TheAnimators_DesignDocument.pdf)
 
 
 
