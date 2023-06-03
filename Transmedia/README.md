@@ -1,6 +1,5 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
-## Click this for reading: [TheAnimators Transmedia Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/TheAnimators_Transmedia%20.pdf)
 ## Transmedia: [Website](https://dpsd18108.github.io/QuirkyTreasureMovie/) & [Website repository](https://github.com/dpsd18108/QuirkyTreasureMovie)
 
 | # | First and Last Name  |       AM       |             GitHub profile              |
@@ -334,3 +333,5 @@ Third person.
 ### 10.4. How does audio work in this project?
 
 Ανάλογα με τους χαρακτήρες και σημείο που βρίσκονται στην ιστορία θα υπάρχει ανάλογη μουσική ώστε να κάνει match τα συναισθήματα των χαρακτήρων και αυτά να περάσουν στο κοινό με σκοπό να νιώθουν ότι και οι ιδιοι είναι μέρος της ιστορίας μας.επίσης σε κάποιες σκηνές που θα υπάρχει περισσότερη δράση θα υπάρχει και η αντίστοιχη μουσική που θα προσδίδει ένταση .Αντίστοιχα και στις σκηνές που θα πρέπει ο θεατής να ηρεμήσει και να επεξεργαστεί τις πληροφορίες που του δόθηκαν .
+
+## Transmedia PDF: [TheAnimators Transmedia Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/TheAnimators_Transmedia%20.pdf)
