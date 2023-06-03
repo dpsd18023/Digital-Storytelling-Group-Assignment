@@ -334,4 +334,4 @@ Third person.
 
 Ανάλογα με τους χαρακτήρες και σημείο που βρίσκονται στην ιστορία θα υπάρχει ανάλογη μουσική ώστε να κάνει match τα συναισθήματα των χαρακτήρων και αυτά να περάσουν στο κοινό με σκοπό να νιώθουν ότι και οι ιδιοι είναι μέρος της ιστορίας μας.επίσης σε κάποιες σκηνές που θα υπάρχει περισσότερη δράση θα υπάρχει και η αντίστοιχη μουσική που θα προσδίδει ένταση .Αντίστοιχα και στις σκηνές που θα πρέπει ο θεατής να ηρεμήσει και να επεξεργαστεί τις πληροφορίες που του δόθηκαν .
 
-## Transmedia PDF: [TheAnimators Transmedia Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/TheAnimators_Transmedia%20.pdf)
+### [TheAnimators Transmedia Document.pdf](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/TheAnimators_Transmedia%20.pdf)
