@@ -167,7 +167,7 @@ https://www.youtube.com/
 
 https://onlinevideoconverter.com/el/mp3-converter
 
-### PDF: [TheAnimators Design Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_design/TheAnimators_DesignDocument.pdf)
+### [TheAnimators Design Document pdf](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_design/TheAnimators_DesignDocument.pdf)
 
 
 
