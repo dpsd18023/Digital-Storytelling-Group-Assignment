@@ -1,7 +1,8 @@
 # Lesson: Digital Storytelling
 # Presentation
 ## The Movie: [Ο θησαυρός του Quirky](https://www.youtube.com/watch?v=OqKA6UkUlKs)
-## Click this for reading: [TheAnimators Presentation](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/TheAnimators_Presentation.pdf)
+## Transmedia: [Website](https://dpsd18108.github.io/QuirkyTreasureMovie/) & [Website repository](https://github.com/dpsd18108/QuirkyTreasureMovie)
+
 
 | # | First and Last Name  |       AM       |             GitHub profile              |
 |:---:|     :---:          |     :---:      |                 :---:                   |
@@ -24,3 +25,5 @@
 ![TheAnimators_Presentation_page-0009](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/64b4ae32-e89b-4d13-9743-e6203b9d4782)
 ![TheAnimators_Presentation_page-0010](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/83614914-2945-4ed9-b192-8acaaff7f828)
 ![TheAnimators_Presentation_page-0011](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/assets/115796095/676bedbd-c7d8-4427-82c2-9827adcfe3a3)
+
+## Presentation PDF: [TheAnimators Presentation](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/TheAnimators_Presentation.pdf)
