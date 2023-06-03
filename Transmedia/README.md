@@ -1,7 +1,6 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
 ## Click this for reading: [TheAnimators Transmedia Document](https://github.com/dpsd18023/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/TheAnimators_Transmedia%20.pdf)
-## Transmedia link: [WebSite](https://dpsd18108.github.io/QuirkyTreasureMovie/)
 ## Transmedia: [Website](https://dpsd18108.github.io/QuirkyTreasureMovie/) & [Website repository](https://github.com/dpsd18108/QuirkyTreasureMovie)
 
 | # | First and Last Name  |       AM       |             GitHub profile              |
