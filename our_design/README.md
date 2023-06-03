@@ -1,7 +1,8 @@
 # Lesson: Digital Storytelling
 # Design Document
-## Transmedia: [Website](https://dpsd18108.github.io/QuirkyTreasureMovie/) & [Website repository](https://github.com/dpsd18108/QuirkyTreasureMovie)
 ## The Movie: [Ο θησαυρός του Quirky](https://www.youtube.com/watch?v=OqKA6UkUlKs)
+## Transmedia: [Website](https://dpsd18108.github.io/QuirkyTreasureMovie/) & [Website repository](https://github.com/dpsd18108/QuirkyTreasureMovie)
+
 
 | # | First and Last Name  |       AM       |             GitHub profile              |
 |:---:|     :---:          |     :---:      |                 :---:                   |
